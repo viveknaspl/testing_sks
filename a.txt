@@ -2,3 +2,4 @@ Some more work on feature1 after bugfix1 stuff
 1
 changed made in bugfix branch
 Changes made during feature1
+changes made in bugfix2 branch
